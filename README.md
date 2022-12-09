@@ -21,10 +21,15 @@ implementing all model we get accuracy.
 2)Ridge regression accuracy - 99.23%
 
 3)Lasso regression accuracy - 99.28%
+
 4)ElasticNet accuracy - 96.89%
+
 5)Decision tree regressor accuracy - 97.64%
+
 6)Random Forest accuracy - 98.50
+
 7)Gradient Boost accuracy - 98.33
+
 8)Xtream Gradient Boost accuracy - 98.45
 
 Overall, we can say that Linear Regressor is the best model among all regression model which gives around 99.28% accuracy of predicting stock price of our dataset.
