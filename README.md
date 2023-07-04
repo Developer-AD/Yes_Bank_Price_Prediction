@@ -1,6 +1,7 @@
 <h2 align="center"> AlmaBetter Verfied Project - <a href="https://drive.google.com/file/d/1ziVm4Wfg2jBchXJl-Rl4j89aEE4_5x0h/view?usp=drive_link"> Yes bank closing price prediction </a> </h5>
-
-.........................................................................................................<img class="right" alt="Data Scienctist" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampudGJ3cGQ1YWk4cTJoZXc5amI2YXV5dm5yM3J5djFiNHU5eDZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f67U9Xc53i4ViUs5T2/giphy-downsized-large.gif"/>
+<p align="center">
+<img class="right" alt="Data Scienctist" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampudGJ3cGQ1YWk4cTJoZXc5amI2YXV5dm5yM3J5djFiNHU5eDZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f67U9Xc53i4ViUs5T2/giphy-downsized-large.gif"/>
+</p>
 
 </p>
 <h2> ⏳ Dataset</h2>
