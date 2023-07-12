@@ -39,6 +39,15 @@ Lasso Regression, also known as L1 regularization, adds a penalty term to the lo
 ElasticNet combines the Ridge and Lasso regularization techniques by adding a penalty term that is a linear combination of the L1 and L2 penalty terms. It provides a balance between Ridge and Lasso, allowing for both coefficient shrinkage and feature selection. The ElasticNet penalty is controlled by a parameter called the mixing parameter, which determines the weight of the L1 and L2 penalties.
 </p>
 
+<h2> 🌲 Decision Tree </h2>
+<p>
+  A decision tree is a machine learning algorithm used for both classification and regression tasks. It represents a flowchart-like structure, where each internal node represents a feature or attribute, each branch represents a decision rule, and each leaf node represents an outcome or a class label. The decision tree recursively partitions the data based on the values of different features, with the goal of maximizing the separation between different classes or minimizing the prediction error. By following the decision path from the root node to a leaf node, the decision tree can make predictions or assign class labels to new instances based on the learned rules. Decision trees are intuitive, interpretable, and capable of handling both categorical and numerical features, making them widely used in various domains for their simplicity and ability to capture complex decision-making processes.
+</p>
+
+<h2> 🎄 Random Forest </h2>
+<p>
+Random Forest is a powerful machine learning algorithm that combines multiple decision trees to make predictions. It works by constructing an ensemble of decision trees, each trained on a random subset of the data and using a random subset of features. Random Forest leverages the principle of "wisdom of the crowd" by aggregating the predictions from individual trees to produce a final prediction. This approach helps to reduce overfitting and increase the model's generalization ability. Random Forest is suitable for both classification and regression tasks, providing accurate and robust predictions even in the presence of noisy or high-dimensional data. It also allows for feature importance assessment, enabling insights into which features contribute the most to the prediction. Random Forest is widely used in various domains due to its flexibility, scalability, and ability to handle complex relationships within the data.
+</p>
 <h2> 🛠️ Performance metric for regression problems</h2>
 <p>
 In linear regression, several metrics are commonly used to evaluate the model's performance and assess the goodness of fit. Here's a brief explanation of some of the key metrics:
@@ -52,16 +61,6 @@ Mean Absolute Error (MAE): MAE computes the average absolute difference between 
 R-squared (R2): R-squared represents the proportion of the variance in the dependent variable that is explained by the independent variables in the model. It ranges from 0 to 1, with higher values indicating a better fit. However, R-squared can be misleading when the model is overfitting or when comparing models with different numbers of predictors.
 
 Adjusted R-squared (Adjusted R2): Adjusted R-squared adjusts the R-squared value by considering the number of predictors and the sample size. It penalizes the addition of unnecessary predictors, making it a more reliable measure when comparing models with different numbers of predictors. Adjusted R-squared values closer to 1 indicate a better balance between model fit and complexity.
-</p>
-
-<h2> 🌲 Decision Tree </h2>
-<p>
-  A decision tree is a machine learning algorithm used for both classification and regression tasks. It represents a flowchart-like structure, where each internal node represents a feature or attribute, each branch represents a decision rule, and each leaf node represents an outcome or a class label. The decision tree recursively partitions the data based on the values of different features, with the goal of maximizing the separation between different classes or minimizing the prediction error. By following the decision path from the root node to a leaf node, the decision tree can make predictions or assign class labels to new instances based on the learned rules. Decision trees are intuitive, interpretable, and capable of handling both categorical and numerical features, making them widely used in various domains for their simplicity and ability to capture complex decision-making processes.
-</p>
-
-<h2> 🎄 Random Forest </h2>
-<p>
-Random Forest is a powerful machine learning algorithm that combines multiple decision trees to make predictions. It works by constructing an ensemble of decision trees, each trained on a random subset of the data and using a random subset of features. Random Forest leverages the principle of "wisdom of the crowd" by aggregating the predictions from individual trees to produce a final prediction. This approach helps to reduce overfitting and increase the model's generalization ability. Random Forest is suitable for both classification and regression tasks, providing accurate and robust predictions even in the presence of noisy or high-dimensional data. It also allows for feature importance assessment, enabling insights into which features contribute the most to the prediction. Random Forest is widely used in various domains due to its flexibility, scalability, and ability to handle complex relationships within the data.
 </p>
 
 <h2> 📋 Documents </h2>
