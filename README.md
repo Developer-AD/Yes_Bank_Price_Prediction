@@ -82,7 +82,6 @@ The Challenge we face is due to small dataset so it’s difficult to get good mo
 In EDA part we observed that :
 </p>
 <ol>
-   <li>There is increase in trend of Yes Bank's stock's Close price till 2018 and then sudden decrease.</p>
    <li>There is increase in trend of Yes Bank's stock's Open price till 2018 and then sudden decrease.</p>
    <li>We observed that open vs close price graph concluded that after 2018 yes bank's stock hitted drastically.</p>
 
